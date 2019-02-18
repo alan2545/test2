@@ -31,9 +31,16 @@ ARPANET
 
 
 
-1990
--
--the start of billion 
+###1990
+
+- The start of billion dollar companies apple and google
+- Xerox companany - created photocopier machines 
+    - Made gui interface 
+     - did not know how amaIng this was
+- Apple and microsoft saw it and stole it
+  -Bill Gates and Steve jobs went to this company as kids and were able to see and utilitze this interface for their own countries.  
+
+
 
 ###2000
 - dot com bubble
