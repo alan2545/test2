@@ -19,7 +19,7 @@ February 7th, 1958
 -	Computer research was left for while.
 -	After the landing on the moon computer research was picked up and it started to make its mark.
 1961-1962
-Leonard Kleinrock applied queueing theory to data transmition. in his words, “a que Is a very simple structure. It’s simply a system to which you arrive, hang around a while and leave”
+Leonard Kleinrock applied queueing theory to data transmission. in his words, “a que Is a very simple structure. It’s simply a system to which you arrive, hang around a while and leave”
 
 Early 1960’s
 -	American government hired Paul Baran to build an indestructible communication network. After a lot of research they came up with packets and packet switching.
