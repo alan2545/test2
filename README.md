@@ -25,3 +25,14 @@ Early 1960’s
 -	American government hired Paul Baran to build an indestructible communication network. After a lot of research they came up with packets and packet switching.
 1969
 ARPANET
+
+
+
+
+
+###1990
+-
+-the start of billion 
+
+###2000
+- dot com bubble
