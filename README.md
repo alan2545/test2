@@ -40,7 +40,7 @@ All the files in boilerplate
 ###1990
 
 - The start of billion dollar companies apple and google
-- Xerox companany - created photocopier machines 
+- Xerox company - created photocopier machines 
     - Made gui interface 
      - did not know how amaIng this was
 - Apple and microsoft saw it and stole it
@@ -50,3 +50,4 @@ All the files in boilerplate
 
 ###2000
 - dot com bubble
+fsdfasfasfd
