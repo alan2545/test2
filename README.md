@@ -87,18 +87,6 @@ August 3rd, 1984
 
 
 
-
-All the files in boilerplate
--	GitHub includes
--	CODE_OF_CONDUCT.MD – this file talks about the rules and regulations people should follow while using boilerplate and while participating in the community
--	CONTRIBUTING.MD – this file explains how anyone can help contribute to the boilerplate community. Including issue tracker, bug reports, feature request etc.
--	ISSUE_TEMPLATE.MD – this file provides more information on the how to contribute. It also provides a template on 
--	PULL_REQUEST_TEMPLATE.MD – this file provides a checklist if a user decides to do one.
--	SUPPORT.MD – the last file gives basic information for personal support or support regarding different code
--	.travis
-
-
-
 ###1990
 
 - The start of billion dollar companies apple and google
@@ -112,3 +100,12 @@ All the files in boilerplate
 
 ###2000
 - dot com bubble
+
+All the files in boilerplate
+-	GitHub includes
+-	CODE_OF_CONDUCT.MD – this file talks about the rules and regulations people should follow while using boilerplate and while participating in the community
+-	CONTRIBUTING.MD – this file explains how anyone can help contribute to the boilerplate community. Including issue tracker, bug reports, feature request etc.
+-	ISSUE_TEMPLATE.MD – this file provides more information on the how to contribute. It also provides a template on 
+-	PULL_REQUEST_TEMPLATE.MD – this file provides a checklist if a user decides to do one.
+-	SUPPORT.MD – the last file gives basic information for personal support or support regarding different code
+-	.travis
