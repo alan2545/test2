@@ -41,6 +41,31 @@ ARPANET
 January 1st, 1969
 -	BBM won the contract and they got to work
 
+October 1st, 1969
+-	After a short deadline and a lot of work. The first ever packet was sent and received. It was sent From and IMP at BBN to an IMP in UCLA and there the ARPANET was born
+
+End of 1969
+-	There were 4 total sites connected in the network
+
+April 1971
+-	The ARPANET had 18 mainframe computers hooked up into the network.
+
+1972
+-	Raymond Tomlinson created the first Email program. Making the computer network more useful. Nobody asked for the program, but Tomlinson just did it and he provided something people never knew they needed. 
+-	There were less than 25 sites online
+
+1973
+-	The development of TCP/IP begins by Vinton Cerf and Bob Kahn
+-	University of London and Royal Radar establishment connect to the ARPANET. Making it the first international connection
+
+1974
+-	Vinton Cerf and Bob Kahn publish “A Protocol for Packet Network Interconnectivity” This was also the first time the word “Internet” was used.
+
+1977 
+-	The CSNET was created by Lawrence Lanceweber. It was created mostly for university’s in the US and computer research groups
+
+1979
+-	USENET was created for news and discussion groups
 
 
 
