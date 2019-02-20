@@ -26,6 +26,24 @@ Early 1960’s
 1969
 ARPANET
 
+1965
+-	Larry Roberts built the world’s first experimental connection between two computers at MIT
+
+1966
+-	Bob Taylor of ARPA didn’t like moving from terminal to terminal so he had an idea to create a network to connect all the computers to work from just one terminal. He was given a million dollars to turn the theory of a computer network into a reality. He recruited Larry and formed a team
+
+1966-67
+-	Larry Roberts had the network designed figured out. He now needed engineers to build it. The network would use Interface Message Processors (IMP) and packet switching
+
+1968
+-	A company called BBN seemed the most interested in the project
+
+January 1st, 1969
+-	BBM won the contract and they got to work
+
+
+
+
 All the files in boilerplate
 -	GitHub includes
 -	CODE_OF_CONDUCT.MD – this file talks about the rules and regulations people should follow while using boilerplate and while participating in the community
