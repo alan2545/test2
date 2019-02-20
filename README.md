@@ -67,6 +67,25 @@ April 1971
 1979
 -	USENET was created for news and discussion groups
 
+1980
+-	The Internet Activities Board (IAB) was created by Dr. Barry Leiner.
+-	Mr. Landweber created the first network gateways between European Countries and the US
+
+1982
+-	The first initial wide area network (WAN) was created by Teus Hagen in Europe
+
+1983
+-	ARPANET changed to TCP/IP making it the universal protocol for the Internet
+-	The Domain Naming system is created by Paul Mockapetris. Instead of typing in IP numbers. Users only have to type in website names
+
+August 3rd, 1984
+-	Germany receives its first ever email.
+
+1985
+-	Symbolics.com becomes the first registered domain
+-	NSFNET was developed by Dr. Stephen Wolff. It was the first open computer network in the US and  It was just “a network of networks that connected academic users along with the ARPANET”
+
+
 
 
 All the files in boilerplate
