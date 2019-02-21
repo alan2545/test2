@@ -118,7 +118,11 @@ dist
 - CSS - this is where the CSS files go
   - main.css - this file contains boilerplate styles. These styles can be generated with initializr.com
   - normalize.css - "makes browsers render all elements more consistently and in line with modern standards." it also improves usability with subtle modifications and explains what code does using detailed comments.
- - doc stands for documentation and that is its utilization
+ - doc - stands for documentation and that is its utilization
+ - css.md(The CSS) - is just a file that explains all the .css files and it explains what they do.
+ - extend.md (extend and customize HTML5 Boilerplate) - This files provides advice on how you can cusotmize projects in boilerplate and how to include things like Appstore, Google Analytics, DNS prefetching etc.
+ - faq.md (Frequently Asked Questions) 
+ 
  
                                                                                                                     
 
