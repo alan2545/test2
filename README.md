@@ -108,4 +108,16 @@ All the files in boilerplate
 -	ISSUE_TEMPLATE.MD – this file provides more information on the how to contribute. It also provides a template on 
 -	PULL_REQUEST_TEMPLATE.MD – this file provides a checklist if a user decides to do one.
 -	SUPPORT.MD – the last file gives basic information for personal support or support regarding different code
--	.travis
+
+.travis
+- this file is used if the project that is being worked on is using Travis CI.
+- git_deploy_key.enc is where you insert your key when you get one
+
+dist
+- meaning distribution. this file is used for the public when you software is published
+- CSS - this is where the CSS files go
+  - main.css - this file contains boilerplate styles. These styles can be generated with initializr.com
+  - normalize.css - "makes browsers render all elements more consistently and in line with modern standards." it also improves usability with subtle modifications and explains what code does using detailed comments.
+  
+                                                                                                                    
+
