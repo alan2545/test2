@@ -118,6 +118,7 @@ dist
 - CSS - this is where the CSS files go
   - main.css - this file contains boilerplate styles. These styles can be generated with initializr.com
   - normalize.css - "makes browsers render all elements more consistently and in line with modern standards." it also improves usability with subtle modifications and explains what code does using detailed comments.
-  
+ - doc stands for documentation and that is its utilization
+ 
                                                                                                                     
 
