@@ -180,7 +180,7 @@ August 3rd, 1984
      ga('create', 'UA-XXXXX-Y', 'auto'); ga('send', 'pageview')
    </script>
    <script src="https://www.google-analytics.com/analytics.js" async defer></script> - this whole sequence links google analytics to your site.
-- < /body> - this line ends the body of the script
+- < /body> - this line ends the body of your code
 < /html> - this line ends the whole file                                                                                     
 - that is index.html line by line
 
@@ -190,4 +190,14 @@ August 3rd, 1984
 - site.webmanifest - you might have recalled that manifest was used in the index.html. a manifest just gives basic information about the site. it provides things like name, author, icon, description.
 - tile.png - this is where the logo of the site goes. it shows when ever it is pined. It is 558×558px
 - tile-wide.png - this file provides the same purpose as tile.png it just a different size. it is  558×270px
+
+- .editorconfig- as explained in their site, "EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs" so EditorConfig is just a program used across multiple IDEs so multiple people can collaborate on one project without the restriction of using one IDE
+- eslintrc.js - this is a tool that is very customizable and checks for errors and patterns in your code.
+- .gitattributes - this just gives attributes to pathname. it helps git better understand the file contents
+- .gitignore - this where you put your files that you want git to ignore
+- .jscsrc - this tool is similar to eslintrc.js but it was discontinued on April 2016. eslintrc site gives a guide on how to migrate from .jscsrc to eslintrc
+- travis.yml - instead of making big changes to your program and testing them. travis.CI helps developers by automatically testing changes and providing feedback
+- CHANGELOG.md - is just a log of all the updates made to boilerplate
+- gulpfile.babel.js
+- 
 
