@@ -148,10 +148,28 @@ August 3rd, 1984
    - browserconfig.xml - this file is used for pin site customization. it can be used for logos, notifications, badge updates
    - favicon.ico - this is the icon that is dispayed next to the url whenever the user is on the site.
    - humans.txt - this file just gives different information about people who helped build the site
-   - icon.png - this is where you would put your icon
+   - icon.png - this is where you would put your icon**
  ##index.html
- - 
-
- 
-                                                                                                                    
+ - index.html is the front page of your site or the only page on your site.
+- <!doctype html> - this line declares that it is html. "doctype declaration"
+- < html class="no-js" lang=""> - this line is only evaluable by internet explorer(IE). the no-js part of the code explains custom styles when JS is disabled
+- < head> - this declares the start of your program
+- < meta charset="utf-8">
+-  < meta http-equiv="x-ua-compatible" content="ie=edge">- this ensures that the latest rendering version of IE is running
+- < title>< /title``> - this would be the title of the page
+- < meta name="description" content=""> - this describes what ever content you put. description of the site
+- < meta name="viewport" content="width=device-width, initial-scale=1"> - this line is for mobile users and their browsers
+- < link rel="manifest" href="site.webmanifest"> - web app manifest just provides info about the application. so this line just provides an example and then points to the file
+- < link rel="apple-touch-icon" href="icon.png"> - this line puts the what ever icon that the sites uses and displays it whenever an iOS user bookmarks the site or adds it to their homescreen
+- < link rel="stylesheet" href="css/normalize.css"> - this line explains the relationship between what is in rel and the file. it is just linking the two things
+<link rel="stylesheet" href="css/main.css"> - same thing as the last line but it is just pointing to main.css instead of normalize.css
+- < body> - this tag starts the body of the code
+-  < !--[if lte IE 9]>
+      < p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    < ![endif]--> - this whole sequence just tells the user that their browser is out of date and recommends they upgrade
+- < !-- Add your site or application content here --> 
+  - < p>Hello world! This is HTML5 Boilerplate.< /p > - as you can see. this is where you add your application content
+- < script src="js/vendor/modernizr-3.6.0.min.js"></script> -  this line points to modernizr.
+- < script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script> - here the user linked up jQuery
+- < script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script> -                                                                                                    
 
