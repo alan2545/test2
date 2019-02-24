@@ -182,4 +182,12 @@ August 3rd, 1984
    <script src="https://www.google-analytics.com/analytics.js" async defer></script> - this whole sequence links google analytics to your site.
 - < /body> - this line ends the body of the script
 < /html> - this line ends the whole file                                                                                     
+- that is index.html line by line
+
+- LICENSE.txt - this file just explains the copyright agreements and how boilerplate is open source software that anyone can use without any restrictions
+- robots.txt - as stated on their website, "are programs that traverse the Web automatically." basically, this just travels through sites to get the information that they need and report it back to the end user
+      - robots.txt just gives instructions about the site to the robots that are visiting their site
+- site.webmanifest - you might have recalled that manifest was used in the index.html. a manifest just gives basic information about the site. it provides things like name, author, icon, description.
+- tile.png - this is where the logo of the site goes. it shows when ever it is pined. It is 558×558px
+- tile-wide.png - this file provides the same purpose as tile.png it just a different size. it is  558×270px
 
