@@ -162,7 +162,7 @@ August 3rd, 1984
 - < link rel="manifest" href="site.webmanifest"> - web app manifest just provides info about the application. so this line just provides an example and then points to the file
 - < link rel="apple-touch-icon" href="icon.png"> - this line puts the what ever icon that the sites uses and displays it whenever an iOS user bookmarks the site or adds it to their homescreen
 - < link rel="stylesheet" href="css/normalize.css"> - this line explains the relationship between what is in rel and the file. it is just linking the two things
-<link rel="stylesheet" href="css/main.css"> - same thing as the last line but it is just pointing to main.css instead of normalize.css
+- < link rel="stylesheet" href="css/main.css"> - same thing as the last line but it is just pointing to main.css instead of normalize.css
 - < body> - this tag starts the body of the code
 -  < !--[if lte IE 9]>
       < p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
@@ -170,6 +170,16 @@ August 3rd, 1984
 - < !-- Add your site or application content here --> 
   - < p>Hello world! This is HTML5 Boilerplate.< /p > - as you can see. this is where you add your application content
 - < script src="js/vendor/modernizr-3.6.0.min.js"></script> -  this line points to modernizr.
-- < script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script> - here the user linked up jQuery
-- < script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script> -                                                                                                    
+- < script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script> - here the user linked up and loads the jQuery
+- < script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script> - this line loads a jquery file if the previous one doesnt work or is undefiined
+- < script src="js/plugins.js"></script> - this line links the plugin file that is in the vendor folder
+- < script src="js/main.js"></script> - this line links the main.js file that is in the vendor folder
+-< !-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+   <script>
+     window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+     ga('create', 'UA-XXXXX-Y', 'auto'); ga('send', 'pageview')
+   </script>
+   <script src="https://www.google-analytics.com/analytics.js" async defer></script> - this whole sequence links google analytics to your site.
+- < /body> - this line ends the body of the script
+< /html> - this line ends the whole file                                                                                     
 
