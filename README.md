@@ -99,6 +99,8 @@ August 3rd, 1984
 ###2000
 - dot com bubble
 
+###2010
+- Social media rises with the advent of sites such as myspace, facebook, twitter
 
 
 
