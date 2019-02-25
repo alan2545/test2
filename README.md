@@ -208,5 +208,7 @@ August 3rd, 1984
 - travis.yml - instead of making big changes to your program and testing them. travis.CI helps developers by automatically testing changes and providing feedback
 - CHANGELOG.md - is just a log of all the updates made to boilerplate
 - gulpfile.babel.js - 
-- 
-
+- License.txt - this file just explains the copyright agreements and how boilerplate is open source software that anyone can use without any restrictions
+- modernizr-config.json - this is just a configuration file for modernizr
+- package.json - this file includes basic metadata and attributes to your project
+- README.md - this file includes information users should read before starting their project.
