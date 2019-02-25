@@ -18,13 +18,12 @@ February 7th, 1958
 -	The space program got its own agency(NASA).
 -	Computer research was left for while.
 -	After the landing on the moon computer research was picked up and it started to make its mark.
+
 1961-1962
 Leonard Kleinrock applied queueing theory to data transmission. in his words, “a que Is a very simple structure. It’s simply a system to which you arrive, hang around a while and leave”
 
 Early 1960’s
 -	American government hired Paul Baran to build an indestructible communication network. After a lot of research they came up with packets and packet switching.
-1969
-ARPANET
 
 1965
 -	Larry Roberts built the world’s first experimental connection between two computers at MIT
@@ -90,7 +89,7 @@ August 3rd, 1984
 ###1990
 
 - The start of billion dollar companies apple and google
-- Xerox companany - created photocopier machines 
+- Xerox company - created photocopier machines 
     - Made gui interface 
      - did not know how amaIng this was
 - Apple and microsoft saw it and stole it
@@ -155,6 +154,16 @@ August 3rd, 1984
 - < html class="no-js" lang=""> - this line is only evaluable by internet explorer(IE). the no-js part of the code explains custom styles when JS is disabled
 - < head> - this declares the start of your program
 - < meta charset="utf-8">
+##utf - 8 
+- utf-8 is a way to encode text in any language.
+-ASCII was used before an it was used to encode latin letters. this would only work for certain languages.
+- unicode and UTF-8 fixed this problem.
+- it works as different byte encoding
+- one byte would be 0XXX|XXXX
+- two byte encoding would be 110X|XXXX 10XX|XXXX
+- three byte encodin would be 1110X|XXXX 10XX|XXXX 10XX|XXXX.
+- for every 1 there is gonna be a 10 on the next byte.
+##index.html con.
 -  < meta http-equiv="x-ua-compatible" content="ie=edge">- this ensures that the latest rendering version of IE is running
 - < title>< /title``> - this would be the title of the page
 - < meta name="description" content=""> - this describes what ever content you put. description of the site
@@ -198,6 +207,6 @@ August 3rd, 1984
 - .jscsrc - this tool is similar to eslintrc.js but it was discontinued on April 2016. eslintrc site gives a guide on how to migrate from .jscsrc to eslintrc
 - travis.yml - instead of making big changes to your program and testing them. travis.CI helps developers by automatically testing changes and providing feedback
 - CHANGELOG.md - is just a log of all the updates made to boilerplate
-- gulpfile.babel.js
+- gulpfile.babel.js - 
 - 
 
