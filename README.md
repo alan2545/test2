@@ -218,5 +218,13 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 - GitHub - this is what connects webStorm with with Git. it is a web based hosting service for version control using Git. This is where you put your repositories, communicate with other devs in the community and copy other people repository 
 - Webstorm - this is an IDE for Javascript. "The smartest JavaScript IDE"
 - first off your gonna start off by making Git Hub and WebStorm account
+![alt text](dist/img/webstorm_user.png)
+- here you fill out all your info and after you do that you start your download process
+- while WebStorm is downloading move on to github and create an account
+![alt text](dist/img/github_newuser.png)
+- after you are done creating that check on your WebStorm download. it should be done by now.
+- after your download you are going to have to do some configuration. After all of that you can start on your new project
+
+
 
 
