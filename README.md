@@ -1,5 +1,6 @@
 # Timeline of the Internet
 By Alan and Cris
+
 End of world War 1
 -	Aruthor Scherbius(German engineer) invented the Enigma and the German Government later adapted it in the World War 2.
 
@@ -90,7 +91,7 @@ August 3rd, 1984
 - The start of billion dollar companies apple and google
 - Xerox companany - created photocopier machines 
     - Made gui interface 
-     - did not know how amaIng this was
+     - did not know how amazing this was
 - Apple and microsoft saw it and stole it
   -Bill Gates and Steve jobs went to this company as kids and were able to see and utilitze this interface for their own countries.  
 
@@ -102,6 +103,11 @@ August 3rd, 1984
 ###2010
 - Social media rises with the advent of sites such as myspace, facebook, twitter
 
+
+###The Future
+-AI
+-automation
+-expanded storage space 
 
 
 #All the files in boilerplate
