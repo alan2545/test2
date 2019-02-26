@@ -234,14 +234,20 @@ August 3rd, 1984
 - css.md
   - make browsers render all elements more consistently and in line
     with modern standards, we include
-- img
-  - fd
-- js 
-  - fdsa
--
--
--
--
+- extend.md
+  - you can make your project with HTML5 Boilerplate even better.
+- faq.md 
+  - common questions are answered here
+- html.md
+  - describes the two html pages
+- js.md
+  - 
+- misc.md
+  -  
+- TOC.md
+  - 
+- usage.md
+  - 
 ###Test Folder
 
 - 
