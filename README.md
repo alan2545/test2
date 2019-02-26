@@ -93,13 +93,13 @@ August 3rd, 1984
     - Made gui interface 
      - did not know how amazing this was
 - Apple and microsoft saw it and stole it
-  -Bill Gates and Steve jobs went to this company as kids and were able to see and utilitze this interface for their own countries.  
+  -Bill Gates and Steve jobs went to this company as kids and were able to see and utilitze this interface for their own companies.  
 
 
 
 ###2000
-- dot com bubble
-  -period of excessive speculation mainly in the United States that occurred roughly from 1995 to 2000, a period of extreme growth in the usage and adoption of the Internet.
+- Dot com bubble
+  - period of excessive speculation mainly in the United States that occurred roughly from 1995 to 2000, a period of extreme growth in the usage and adoption of the Internet.
 
 ###2010
 - Social media rises with the advent of sites such as myspace, facebook, twitter
