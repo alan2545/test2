@@ -256,4 +256,32 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 ![alt text](dist/img/pastinglink.png)
 -after clicking Git, you past the link in the URL option and click clone.
 ![alt text](dist/img/mightnot.png)
-- you might or might not get this message. It is just going to add the 
+- you might or might not get this message. Just click Add
+![alt text](dist/img/newfile.png)
+-Just to test out if the GitHub worked. we are going to create a new file and add some text
+-right click over the folder, hover over new and then click file.
+![alt text](dist/img/nameit.png)
+- you can name it what ever you want.
+![alt text](dist/img/justclickadd.png)
+- Again. if this pops up just click add. 
+- you can click the box next to Remember, don't ask again if you dont want to see the message again.
+![alt text](dist/img/commit.png)
+- once you are done writing your text you always want to commit your work. THIS IS THE MOST IMPORTANT STEP IN THIS PROCESS.
+- without committing all your work is gone.
+- click on VCS and then click on Commit...
+![alt text](dist/img/addames.png)
+- Then you add a message that describes what you did. 
+- Be descriptive when you are working on a real project or working with others so there is no confusion
+![alt text](dist/img/pull.png)
+-click on VCS again
+- hover your mouse over Git
+- click push
+- pushing your work is very important. It is like taking your work and giving it to your partner for them to see your work.
+![alt text](dist/img/afterpush.png)
+- after clicking push this menu is going to appear
+- just click the button on the bottom right that says Push.
+![alt text](dist/img/checkgit.png)
+- go back to git to see if worked.
+- you might have to refresh the page.
+- Boom. There it is. all your handwork is now on GitHub all thanks to Git.
+
