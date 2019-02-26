@@ -257,20 +257,16 @@ August 3rd, 1984
   - Usage of boilerplate
   
 ##img
-- fsadf
-  - safsdf
-- fsadf
-  - safsdf
-- fsadf
-  - safsdf
+- gitignore
+  - git will ignore files in this folder, used so that core files will not be overwritten
 
 ##js  
-- fsadf
-  - safsdf
-- fsadf
-  - safsdf
+- main.js
+  - where the main code for the javascript goes
+- plugins.js
+  - plugins for javascript
   
-- fsadf
+- .editorconfig
   - safsdf
 - fsadf
   - safsdf
