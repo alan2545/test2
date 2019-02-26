@@ -103,7 +103,7 @@ August 3rd, 1984
 
 ###2010
 - Social media rises with the advent of sites such as myspace, facebook, twitter
-- e interactive Web 2.0 Internet-based applications. User-generated content, such as text posts or comments, digital photos or videos, and data generated through all online interactions, is the lifeblood of social media.
+- Social media are interactive nternet-based applications. User-generated content is the lifeblood of social media.
 
 ###The Future
 -AI
