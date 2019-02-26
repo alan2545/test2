@@ -122,6 +122,7 @@ August 3rd, 1984
 -AI
 -automation
 -expanded storage space 
+  - One terabyte can fit in a microSD card
 
 
 #All the files in boilerplate
