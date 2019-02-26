@@ -213,7 +213,6 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 
 #Instructional
 ###This is an instructional piece on how to use Git, GitHub, Repository, Clone, Commit, Push, Pull, Branch, Merge, Merge Conflict, Fetch, Remote
-###before we start of the tutorial it is assumed that you already have webStorm installed on your device
 - Git - git is an open source version control system that allows users to track changes during the development of a project
 - GitHub - this is what connects webStorm with with Git. it is a web based hosting service for version control using Git. This is where you put your repositories, communicate with other devs in the community and copy other people repository 
 - Webstorm - this is an IDE for Javascript. "The smartest JavaScript IDE"
@@ -224,7 +223,8 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 ![alt text](dist/img/github_newuser.png)
 - after you are done creating that check on your WebStorm download. it should be done by now.
 - after your download you are going to have to do some configuration. After all of that you can start on your new project
-
-
+![alt text](dist/img/opening_webstorm.png)
+- when you first open up WebStorm this the what is gonna shown to you. Just click on create new project.
+-after opening that, move on to github and explore the different tabs.
 
 
