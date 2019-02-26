@@ -95,7 +95,12 @@ August 3rd, 1984
 - Apple and microsoft saw it and stole it
   -Bill Gates and Steve jobs went to this company as kids and were able to see and utilitze this interface for their own companies.  
 
+###1995
 
+- Email Surpasses Postal Mail
+  - There is more email than postal mail in the U.S. 
+-  MP3 Is Developed
+   - Karlheinz Brandenburg and his team settle on a file extension for the audio format, shortening MPEG1, Layer 3 to MP3.
 
 ###2000
 - Dot com bubble
