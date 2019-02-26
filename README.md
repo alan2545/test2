@@ -268,16 +268,18 @@ August 3rd, 1984
   
 - .editorconfig
   - safsdf
-- fsadf
+- .gitattributes
   - safsdf
-- fsadf
+- .gitignore
+  - safsdf
+- 404.html
+  - safsdf
+- tile-wide.png
   - safsdf
   
 ###Test Folder
 
-- 
--
--
--
--
--
+- file_content.js 
+  - tests the content in the folders
+- file_existence.js
+  - tests there are no problems in the files 
