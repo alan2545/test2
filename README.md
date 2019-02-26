@@ -160,10 +160,10 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
  -  this file is where you place your picture is you want to put them into your code
  -  .gitignore - gitignore is where you place files that you want git to ignore.
 ## js(JavaScript)
-   ### vendor
+   ## vendor
    - jquery-3.3.1.min.js - this is just an update to jquery 3.3.1
    - modernizr-3.6.0.min.js - modernizr as a whole is just a js library used to detect HTML5 features in certain browsers. 
-     - It just determines if the users browser has implemented said feature.
+       - It just determines if the users browser has implemented said feature.
    - main.js - this is where the user includes all their plugins
    - plugins.js - this is where the plugins are used. As you see in the bottom of the file, "Place any jQuery/helper plugins in here."
    - .editorconfig - as explained in their site, "EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs"
@@ -290,7 +290,6 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
   - image of star
   
 ## Test
-
 - file_content.js 
   - tests the content in the folders
 - file_existence.js
@@ -314,9 +313,13 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 
 # Instructional
 ## This is an instructional piece on how to use Git, GitHub, Repository, Clone, Commit, Push, Pull, Branch, Merge, Merge Conflict, Fetch, Remote
-- Git - git is an open source version control system that allows users to track changes during the development of a project
-- GitHub - this is what connects webStorm with with Git. it is a web based hosting service for version control using Git. This is where you put your repositories, communicate with other devs in the community and copy other people repository 
-- Webstorm - this is an IDE for Javascript. "The smartest JavaScript IDE"
+### Git 
+  - git is an open source version control system that allows users to track changes during the development of a project
+### GitHub 
+  - this is what connects webStorm with with Git. it is a web based hosting service for version control using Git. This is where you put your repositories, communicate with other devs in the community and copy other people repository 
+### Webstorm
+  - this is an IDE for Javascript. "The smartest JavaScript IDE"
+  
 - first off your gonna start off by making Git Hub and WebStorm account
 ![alt text](dist/img/webstorm_user.png)
 - here you fill out all your info and after you do that you start your download process
@@ -341,6 +344,9 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 - once you are in GitHub go into your account. after that click on your profile icon on the top right. 
 - Once you click that a drop down menu is going to appear. 
 - Click on Your repositories
+### Repository
+  - A repository or repo is a place where you can store you software packages. 
+  - Think of it as a folder that can be public or private
 ![alt text](dist/img/repos.png)
 - after that, click on the big green button on the top right corner that says New.
 ![alt text](dist/img/insiderepo.png)
@@ -356,11 +362,16 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 - once you do that click on Git
 ![alt text](dist/img/pastinglink.png)
 -after clicking Git, you past the link in the URL option and click clone.
+
+#clone
+- cloning is taking an existing repository and pasting into where ever you want.
+
+
 ![alt text](dist/img/mightnot.png)
 - you might or might not get this message. Just click Add
 ![alt text](dist/img/newfile.png)
--Just to test out if the GitHub worked. we are going to create a new file and add some text
--right click over the folder, hover over new and then click file.
+- Just to test out if the GitHub worked. we are going to create a new file and add some text
+- right click over the folder, hover over new and then click file.
 ![alt text](dist/img/nameit.png)
 - you can name it what ever you want.
 ![alt text](dist/img/justclickadd.png)
@@ -368,15 +379,25 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 - you can click the box next to Remember, don't ask again if you dont want to see the message again.
 ![alt text](dist/img/commit.png)
 - once you are done writing your text you always want to commit your work. THIS IS THE MOST IMPORTANT STEP IN THIS PROCESS.
+
+###Commit
+- Commit is like a save button. When ever you make any changes always make a Commit.
+
 - without committing all your work is gone.
 - click on VCS and then click on Commit...
 ![alt text](dist/img/addames.png)
 - Then you add a message that describes what you did. 
 - Be descriptive when you are working on a real project or working with others so there is no confusion
 ![alt text](dist/img/pull.png)
--click on VCS again
+- click on VCS again
 - hover your mouse over Git
 - click push
+
+###push
+- Pushing is just passing your work over to GitHub and passing your work to any other collaborators that are part of the project
+###pull
+- If other workers want you work they can pull the work that you just pushed.
+
 - pushing your work is very important. It is like taking your work and giving it to your partner for them to see your work.
 ![alt text](dist/img/afterpush.png)
 - after clicking push this menu is going to appear
