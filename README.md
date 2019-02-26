@@ -225,6 +225,6 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 - after your download you are going to have to do some configuration. After all of that you can start on your new project
 ![alt text](dist/img/opening_webstorm.png)
 - when you first open up WebStorm this the what is gonna shown to you. Just click on create new project.
--after opening that, move on to github and explore the different tabs.
-
+![alt text](dist/img/after_clicking_create.png)
+- this is the prompt you are going to receive after clicking create new project. for the sake of this tutorial we are just going with empty project. click create after.
 
