@@ -4,92 +4,92 @@ By Alan and Cris
 End of world War 1
 -	Aruthor Scherbius(German engineer) invented the Enigma and the German Government later adapted it in the World War 2.
 
-1945
+###1945
 -	The American finished creating the ENIAC 
 -	It weighed over 30 tons, had over 18,000 vacuum tubes with 70,000 resistors and 10,000 capacitors
 -	It costed about $487,000 to make and with inflation that is around  $7,051,000
 -	Its operation stopped in 1956
 
-1957
+###1957
 -	Russia launched sputnik and it made America feel as if they were behind in space technology
 
-February 7th, 1958
+###February 7th, 1958
 -	Advanced research project agency(ARPA) was created to keep up with the soviets.
 -	ARPA was in charge of the space program and also dealt with computer science.
 -	The space program got its own agency(NASA).
 -	Computer research was left for while.
 -	After the landing on the moon computer research was picked up and it started to make its mark.
-1961-1962
+
+###1961-1962
 Leonard Kleinrock applied queueing theory to data transmission. in his words, “a que Is a very simple structure. It’s simply a system to which you arrive, hang around a while and leave”
 
-Early 1960’s
+###Early 1960’s
 -	American government hired Paul Baran to build an indestructible communication network. After a lot of research they came up with packets and packet switching.
-1969
-ARPANET
 
-1965
+###1965
 -	Larry Roberts built the world’s first experimental connection between two computers at MIT
 
-1966
+###1966
 -	Bob Taylor of ARPA didn’t like moving from terminal to terminal so he had an idea to create a network to connect all the computers to work from just one terminal. He was given a million dollars to turn the theory of a computer network into a reality. He recruited Larry and formed a team
 
-1966-67
+###1966-67
 -	Larry Roberts had the network designed figured out. He now needed engineers to build it. The network would use Interface Message Processors (IMP) and packet switching
 
-1968
+###1968
 -	A company called BBN seemed the most interested in the project
 
-January 1st, 1969
+###January 1st, 1969
 -	BBM won the contract and they got to work
 
-October 1st, 1969
+###October 1st, 1969
 -	After a short deadline and a lot of work. The first ever packet was sent and received. It was sent From and IMP at BBN to an IMP in UCLA and there the ARPANET was born
 
-End of 1969
+###End of 1969
 -	There were 4 total sites connected in the network
 
-April 1971
+###April 1971
 -	The ARPANET had 18 mainframe computers hooked up into the network.
 
-1972
+###1972
 -	Raymond Tomlinson created the first Email program. Making the computer network more useful. Nobody asked for the program, but Tomlinson just did it and he provided something people never knew they needed. 
 -	There were less than 25 sites online
 
-1973
+###1973
 -	The development of TCP/IP begins by Vinton Cerf and Bob Kahn
 -	University of London and Royal Radar establishment connect to the ARPANET. Making it the first international connection
 
-1974
+###1974
 -	Vinton Cerf and Bob Kahn publish “A Protocol for Packet Network Interconnectivity” This was also the first time the word “Internet” was used.
 
-1977 
+###1977 
 -	The CSNET was created by Lawrence Lanceweber. It was created mostly for university’s in the US and computer research groups
 
-1979
+###1979
 -	USENET was created for news and discussion groups
 
-1980
+###1980
 -	The Internet Activities Board (IAB) was created by Dr. Barry Leiner.
 -	Mr. Landweber created the first network gateways between European Countries and the US
 
-1982
+###1982
 -	The first initial wide area network (WAN) was created by Teus Hagen in Europe
 
-1983
+###1983
 -	ARPANET changed to TCP/IP making it the universal protocol for the Internet
 -	The Domain Naming system is created by Paul Mockapetris. Instead of typing in IP numbers. Users only have to type in website names
 
-August 3rd, 1984
+###August 3rd, 1984
 -	Germany receives its first ever email.
 
-1985
+###1985
 -	Symbolics.com becomes the first registered domain
 -	NSFNET was developed by Dr. Stephen Wolff. It was the first open computer network in the US and  It was just “a network of networks that connected academic users along with the ARPANET”
+
 
 ###1990
 
 - The start of billion dollar companies apple and google
-- Xerox companany - created photocopier machines 
+- Xerox company - created photocopier machines 
     - Made gui interface 
      - did not know how amazing this was
 - Apple and microsoft saw it and stole it
@@ -103,6 +103,30 @@ August 3rd, 1984
    - Karlheinz Brandenburg and his team settle on a file extension for the audio format, shortening MPEG1, Layer 3 to MP3.
 
 ###2000
+- Dot com bubble
+  - period of excessive speculation mainly in the United States that occurred roughly from 1995 to 2000, a period of extreme growth in the usage and adoption of the Internet.
+- Algore pushed to make internet public 
+- ICAN internation coroprations assign number and names -  
+    - ip address and domain 
+    - networking backbone
+  Dns domain name server 
+- Wc3 - what runs in the network
+  - this is where http originates from 
+ 
+ ###2010
+ - Social media rises with the advent of sites such as myspace, facebook, twitter
+ - Social media are interactive internet-based applications. User-generated content is the lifeblood of social media.
+ -  China Dominates Internet Usage
+   - By 2010, there are over 450 million Chinese Internet users.
+   - Surprising because internet is heavily censored 
+ ###The Future
+ - AI
+   - Artificial intelligence becomes more invested in
+ - Automation
+   - Jobs that are easy are becoming automated leading to fears as well as hopes
+ - Expanded storage space 
+   - One terabyte can fit in a microSD card
+   
 - Dot com bubble
   - period of excessive speculation mainly in the United States that occurred roughly from 1995 to 2000, a period of extreme growth in the usage and adoption of the Internet.
 - Algore pushed to make internet public 
@@ -129,8 +153,9 @@ August 3rd, 1984
   - One terabyte can fit in a microSD card
 
 
+
 #All the files in boilerplate
-#	GitHub 
+##	GitHub 
 -	CODE_OF_CONDUCT.MD – this file talks about the rules and regulations people should follow while using boilerplate and while participating in the community
 -	CONTRIBUTING.MD – this file explains how anyone can help contribute to the boilerplate community. Including issue tracker, bug reports, feature request etc.
 -	ISSUE_TEMPLATE.MD – this file provides more information on the how to contribute. It also provides a template on 
@@ -158,7 +183,7 @@ August 3rd, 1984
     - misc.md(Miscellaneous) - this doc talks about other attributes of boilerplate. For example, .gitignore, .editorconfig, server Configuration etc.
     - TOC.md(Table of Context) - this doc is just like a table of contents in a book and it also has links that redirect the user to certain files they are looking for.
     - usage.md(Usage) - this doc is basically talks about how to use your code and explains what each file and documents means in the boilerplate
--img- this file is where you place your picture is you want to put them into your code
+    -img- this file is where you place your picture is you want to put them into your code
     - .gitignore - gitignore is where you place files that you want git to ignore.
 ## js(JavaScript)
    - vendor
@@ -183,6 +208,16 @@ August 3rd, 1984
 - < html class="no-js" lang=""> - this line is only evaluable by internet explorer(IE). the no-js part of the code explains custom styles when JS is disabled
 - < head> - this declares the start of your program
 - < meta charset="utf-8">
+##utf - 8 
+- utf-8 is a way to encode text in any language.
+-ASCII was used before an it was used to encode latin letters. this would only work for certain languages.
+- unicode and UTF-8 fixed this problem.
+- it works as different byte encoding
+- one byte would be 0XXX|XXXX
+- two byte encoding would be 110X|XXXX 10XX|XXXX
+- three byte encodin would be 1110X|XXXX 10XX|XXXX 10XX|XXXX.
+- for every 1 there is gonna be a 10 on the next byte.
+##index.html con.
 -  < meta http-equiv="x-ua-compatible" content="ie=edge">- this ensures that the latest rendering version of IE is running
 - < title>< /title``> - this would be the title of the page
 - < meta name="description" content=""> - this describes what ever content you put. description of the site
@@ -219,16 +254,6 @@ August 3rd, 1984
 - tile.png - this is where the logo of the site goes. it shows when ever it is pined. It is 558×558px
 - tile-wide.png - this file provides the same purpose as tile.png it just a different size. it is  558×270px
 
-- .editorconfig- as explained in their site, "EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs" so EditorConfig is just a program used across multiple IDEs so multiple people can collaborate on one project without the restriction of using one IDE
-- eslintrc.js - this is a tool that is very customizable and checks for errors and patterns in your code.
-- .gitattributes - this just gives attributes to pathname. it helps git better understand the file contents
-- .gitignore - this where you put your files that you want git to ignore
-- .jscsrc - this tool is similar to eslintrc.js but it was discontinued on April 2016. eslintrc site gives a guide on how to migrate from .jscsrc to eslintrc
-- travis.yml - instead of making big changes to your program and testing them. travis.CI helps developers by automatically testing changes and providing feedback
-- CHANGELOG.md - is just a log of all the updates made to boilerplate
-- gulpfile.babel.js
-- 
-
 ###SRC Folder
 ##doc
 - css.md
@@ -259,6 +284,7 @@ August 3rd, 1984
 ##img
 - gitignore
   - git will ignore files in this folder, used so that core files will not be overwritten
+
 
 ##js  
 - main.js
@@ -295,3 +321,15 @@ August 3rd, 1984
   - tests the content in the folders
 - file_existence.js
   - tests there are no problems in the files 
+  
+- .editorconfig- as explained in their site, "EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs" so EditorConfig is just a program used across multiple IDEs so multiple people can collaborate on one project without the restriction of using one IDE
+- eslintrc.js - this is a tool that is very customizable and checks for errors and patterns in your code.
+- .gitattributes - this just gives attributes to pathname. it helps git better understand the file contents
+- .gitignore - this where you put your files that you want git to ignore
+- .jscsrc - this tool is similar to eslintrc.js but it was discontinued on April 2016. eslintrc site gives a guide on how to migrate from .jscsrc to eslintrc
+- travis.yml - instead of making big changes to your program and testing them. travis.CI helps developers by automatically testing changes and providing feedback
+- CHANGELOG.md - is just a log of all the updates made to boilerplate
+- gulpfile.babel.js
+- 
+>>>>>>>>> Temporary merge branch 2
+
