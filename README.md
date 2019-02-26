@@ -1,7 +1,7 @@
 # Timeline of the Internet
 By Alan and Cris
 
-End of world War 1
+###End of world War 1
 -	Aruthor Scherbius(German engineer) invented the Enigma and the German Government later adapted it in the World War 2.
 
 ###1945
@@ -87,7 +87,6 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 
 
 ###1990
-
 - The start of billion dollar companies apple and google
 - Xerox company - created photocopier machines 
     - Made gui interface 
@@ -96,7 +95,6 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
   -Bill Gates and Steve jobs went to this company as kids and were able to see and utilitze this interface for their own companies.  
 
 ###1995
-
 - Email Surpasses Postal Mail
   - There is more email than postal mail in the U.S. 
 -  MP3 Is Developed
@@ -126,17 +124,6 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
    - Jobs that are easy are becoming automated leading to fears as well as hopes
  - Expanded storage space 
    - One terabyte can fit in a microSD card
-   
-- Dot com bubble
-  - period of excessive speculation mainly in the United States that occurred roughly from 1995 to 2000, a period of extreme growth in the usage and adoption of the Internet.
-- Algore pushed to make internet public 
-- ICAN internation coroprations assign number and names -  
-    - ip address and domain 
-    - networking backbone
-  Dns domain name server 
-- Wc3 - what runs in the network
-  - this is where http originates from 
-   
 
 ###2010
 - Social media rises with the advent of sites such as myspace, facebook, twitter
@@ -151,8 +138,6 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
   - Jobs that are easy are becoming automated leading to fears as well as hopes
 - Expanded storage space 
   - One terabyte can fit in a microSD card
-
-
 
 #All the files in boilerplate
 ##	GitHub 
