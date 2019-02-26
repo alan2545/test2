@@ -230,7 +230,7 @@ August 3rd, 1984
 - 
 
 ###SRC Folder
-
+##doc
 - css.md
   - make browsers render all elements more consistently and in line
     with modern standards, we include
@@ -255,6 +255,28 @@ August 3rd, 1984
     FAQ — Frequently asked questions along with their answers.
 - usage.md
   - Usage of boilerplate
+  
+##img
+- fsadf
+  - safsdf
+- fsadf
+  - safsdf
+- fsadf
+  - safsdf
+
+##js  
+- fsadf
+  - safsdf
+- fsadf
+  - safsdf
+  
+- fsadf
+  - safsdf
+- fsadf
+  - safsdf
+- fsadf
+  - safsdf
+  
 ###Test Folder
 
 - 
