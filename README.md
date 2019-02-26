@@ -227,4 +227,33 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 - when you first open up WebStorm this the what is gonna shown to you. Just click on create new project.
 ![alt text](dist/img/after_clicking_create.png)
 - this is the prompt you are going to receive after clicking create new project. for the sake of this tutorial we are just going with empty project. click create after.
-
+![alt text](dist/img/userinterface.png)
+- this is the interface. Get use to it because you are going to see it for a while
+![alt text](dist/img/puttinggit.png)
+- before we do any coding, click on VCS and then click enable version control integration. this will give us Git
+![alt text](dist/img/choosinggit.png)
+- once you click that this menu is gonna appear. Click the drop down menu and click git and then click ok
+- Now lets do a small recap. We have a GitHub account, we have a WebStorm account and WebStorm downloaded and integrated Git into our WebStorm.
+- After all of that we are going back into GitHub to create our first repository.
+- go back to GitHub
+![alt text](dist/img/goingbacktohub.png)
+- once you are in GitHub go into your account. after that click on your profile icon on the top right. 
+- Once you click that a drop down menu is going to appear. 
+- Click on Your repositories
+![alt text](dist/img/repos.png)
+- after that, click on the big green button on the top right corner that says New.
+![alt text](dist/img/insiderepo.png)
+- this is what you are going to see when you want to create a new Repo.
+- It is very straight forward. For this demonstration we are going to leave everything as is but you should include a README file.
+- after you are done configuring click the create repository button.
+![alt text](dist/img/coppylink.png)
+- once you click create repository, you will be moved to this page.
+- copy the link that is next to SSH button. That is our link for our Git
+![alt text](dist/img/goingbacktoweb.png)
+- go back to WebStorm and go under VCS again. once the drop down menu appears hover your mouse over Checkout from Version Control
+![alt text](dist/img/clickgit.png)
+- once you do that click on Git
+![alt text](dist/img/pastinglink.png)
+-after clicking Git, you past the link in the URL option and click clone.
+![alt text](dist/img/mightnot.png)
+- you might or might not get this message. It is just going to add the 
