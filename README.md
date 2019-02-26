@@ -116,8 +116,10 @@ August 3rd, 1984
 
 ###2010
 - Social media rises with the advent of sites such as myspace, facebook, twitter
-- Social media are interactive nternet-based applications. User-generated content is the lifeblood of social media.
-
+- Social media are interactive internet-based applications. User-generated content is the lifeblood of social media.
+-  China Dominates Internet Usage
+  - By 2010, there are over 450 million Chinese Internet users.
+  - Surprising because internet is heavily censored 
 ###The Future
 - AI
   - Artificial intelligence becomes more invested in
