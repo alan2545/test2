@@ -314,7 +314,10 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 - .jscsrc - this tool is similar to eslintrc.js but it was discontinued on April 2016. eslintrc site gives a guide on how to migrate from .jscsrc to eslintrc
 - travis.yml - instead of making big changes to your program and testing them. travis.CI helps developers by automatically testing changes and providing feedback
 - CHANGELOG.md - is just a log of all the updates made to boilerplate
-- gulpfile.babel.js - 
+- gulpfile.babel.js - babel is a tool used to convert convert ECMAScript 2015+ into backwards compatible version of JavaScript
+      - "Babel is a JavaScript compiler."
+      - Gulp is also a Javascript tool. "it solves the problem of repetition"
+      - this js file puts the two together.
 - License.txt - this file just explains the copyright agreements and how boilerplate is open source software that anyone can use without any restrictions
 - modernizr-config.json - this is just a configuration file for modernizr
 - package.json - this file includes basic metadata and attributes to your project
