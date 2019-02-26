@@ -168,11 +168,12 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
     - misc.md(Miscellaneous) - this doc talks about other attributes of boilerplate. For example, .gitignore, .editorconfig, server Configuration etc.
     - TOC.md(Table of Context) - this doc is just like a table of contents in a book and it also has links that redirect the user to certain files they are looking for.
     - usage.md(Usage) - this doc is basically talks about how to use your code and explains what each file and documents means in the boilerplate
-    -img- this file is where you place your picture is you want to put them into your code
-    - .gitignore - gitignore is where you place files that you want git to ignore.
+##img
+ -  this file is where you place your picture is you want to put them into your code
+ -  .gitignore - gitignore is where you place files that you want git to ignore.
 ## js(JavaScript)
-   - vendor
-     - jquery-3.3.1.min.js - this is just an update to jqeurt 3.3.1
+   ###vendor
+     - jquery-3.3.1.min.js - this is just an update to jquery 3.3.1
      - modernizr-3.6.0.min.js - modernizr as a whole is just a js library used to detect HTML5 features in certain browsers. 
        - It just determines if the users browser has implemented said feature.
      - main.js - this is where the user includes all their plugins
@@ -187,12 +188,12 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
    - favicon.ico - this is the icon that is dispayed next to the url whenever the user is on the site.
    - humans.txt - this file just gives different information about people who helped build the site
    - icon.png - this is where you would put your icon**
- ##index.html
+##index.html
  - index.html is the front page of your site or the only page on your site.
 - <!doctype html> - this line declares that it is html. "doctype declaration"
 - < html class="no-js" lang=""> - this line is only evaluable by internet explorer(IE). the no-js part of the code explains custom styles when JS is disabled
 - < head> - this declares the start of your program
-- < meta charset="utf-8">
+- < meta charset="utf-8" >
 ##utf - 8 
 - utf-8 is a way to encode text in any language.
 -ASCII was used before an it was used to encode latin letters. this would only work for certain languages.
