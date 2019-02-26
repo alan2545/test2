@@ -1,4 +1,4 @@
-#Timeline of the Internet
+# Timeline of the Internet
 By Alan and Cris
 
 ## End of world War 1
@@ -161,11 +161,11 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
  -  .gitignore - gitignore is where you place files that you want git to ignore.
 ## js(JavaScript)
    ### vendor
-     - jquery-3.3.1.min.js - this is just an update to jquery 3.3.1
-     - modernizr-3.6.0.min.js - modernizr as a whole is just a js library used to detect HTML5 features in certain browsers. 
-       - It just determines if the users browser has implemented said feature.
-     - main.js - this is where the user includes all their plugins
-     - plugins.js - this is where the plugins are used. As you see in the bottom of the file, "Place any jQuery/helper plugins in here."
+   - jquery-3.3.1.min.js - this is just an update to jquery 3.3.1
+   - modernizr-3.6.0.min.js - modernizr as a whole is just a js library used to detect HTML5 features in certain browsers. 
+     - It just determines if the users browser has implemented said feature.
+   - main.js - this is where the user includes all their plugins
+   - plugins.js - this is where the plugins are used. As you see in the bottom of the file, "Place any jQuery/helper plugins in here."
    - .editorconfig - as explained in their site, "EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs"
    - .gitattributes - this file gives attributes to path names**
    - .gitignore - this is where you put the files that you want git to ignore
