@@ -241,13 +241,20 @@ August 3rd, 1984
 - html.md
   - describes the two html pages
 - js.md
-  - 
+  - Information about the default JavaScript included in the project.
 - misc.md
-  -  
+  -  .gitignore
+     .editorconfig
+     Server Configuration
+     robots.txt
+     humans.txt
+     browserconfig.xml
+     --
 - TOC.md
-  - 
+  - Usage — Overview of the project contents.
+    FAQ — Frequently asked questions along with their answers.
 - usage.md
-  - 
+  - Usage of boilerplate
 ###Test Folder
 
 - 
