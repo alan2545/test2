@@ -267,15 +267,27 @@ August 3rd, 1984
   - plugins for javascript
   
 - .editorconfig
-  - safsdf
+  - configurations for the editor
 - .gitattributes
-  - safsdf
+  - settings for git
 - .gitignore
-  - safsdf
-- 404.html
-  - safsdf
+  - files that are not sent to the git library
+- favicon.ico
+  - image of a star
+- humans.txt
+  - the people behind the work
+- icon.png
+  - image of a star high quality
+- index.html
+  - this is where your site code goes
+- robots.txt
+  - allow crawling of all content
+- site.webmainfest
+  - appearance of website
+- tile.png
+  - image of star
 - tile-wide.png
-  - safsdf
+  - image of star
   
 ###Test Folder
 
