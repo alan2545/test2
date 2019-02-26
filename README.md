@@ -86,7 +86,7 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, ‚Ä
 -	NSFNET was developed by Dr. Stephen Wolff. It was the first open computer network in the US and  It was just ‚Äúa network of networks that connected academic users along with the ARPANET‚Äù
 
 
-###1990
+### 1990
 - The start of billion dollar companies apple and google
 - Xerox company - created photocopier machines 
     - Made gui interface 
@@ -94,13 +94,13 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, ‚Ä
 - Apple and microsoft saw it and stole it
   -Bill Gates and Steve jobs went to this company as kids and were able to see and utilitze this interface for their own companies.  
 
-###1995
+### 1995
 - Email Surpasses Postal Mail
   - There is more email than postal mail in the U.S. 
 -  MP3 Is Developed
    - Karlheinz Brandenburg and his team settle on a file extension for the audio format, shortening MPEG1, Layer 3 to MP3.
 
-###2000
+### 2000
 - Dot com bubble
   - period of excessive speculation mainly in the United States that occurred roughly from 1995 to 2000, a period of extreme growth in the usage and adoption of the Internet.
 - Algore pushed to make internet public 
@@ -111,13 +111,13 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, ‚Ä
 - Wc3 - what runs in the network
   - this is where http originates from 
  
- ###2010
+ ### 2010
  - Social media rises with the advent of sites such as myspace, facebook, twitter
  - Social media are interactive internet-based applications. User-generated content is the lifeblood of social media.
  -  China Dominates Internet Usage
    - By 2010, there are over 450 million Chinese Internet users.
    - Surprising because internet is heavily censored 
- ###The Future
+ ### The Future
  - AI
    - Artificial intelligence becomes more invested in
  - Automation
@@ -125,13 +125,13 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, ‚Ä
  - Expanded storage space 
    - One terabyte can fit in a microSD card
 
-###2010
+### 2010
 - Social media rises with the advent of sites such as myspace, facebook, twitter
 - Social media are interactive internet-based applications. User-generated content is the lifeblood of social media.
 -  China Dominates Internet Usage
   - By 2010, there are over 450 million Chinese Internet users.
   - Surprising because internet is heavily censored 
-###The Future
+### The Future
 - AI
   - Artificial intelligence becomes more invested in
 - Automation
@@ -139,7 +139,7 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, ‚Ä
 - Expanded storage space 
   - One terabyte can fit in a microSD card
 
-#All the files in boilerplate
+# All the files in boilerplate
 ##	GitHub 
 -	CODE_OF_CONDUCT.MD ‚Äì this file talks about the rules and regulations people should follow while using boilerplate and while participating in the community
 -	CONTRIBUTING.MD ‚Äì this file explains how anyone can help contribute to the boilerplate community. Including issue tracker, bug reports, feature request etc.
@@ -147,18 +147,18 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, ‚Ä
 -	PULL_REQUEST_TEMPLATE.MD ‚Äì this file provides a checklist if a user decides to do one.
 -	SUPPORT.MD ‚Äì the last file gives basic information for personal support or support regarding different code
 
-##.travis
+## .travis
 - this file is used if the project that is being worked on is using Travis CI.
 - git_deploy_key.enc is where you insert your key when you get one
 
 
-##dist
+## dist
 - meaning distribution. this file is used for the public when you software is published
-##CSS 
+## CSS 
 - this is where the CSS files go
   - main.css - this file contains boilerplate styles. These styles can be generated with initializr.com
   - normalize.css - "makes browsers render all elements more consistently and in line with modern standards." it also improves usability with subtle modifications and explains what code does using detailed comments.
-##doc 
+## doc 
 - stands for documentation and that is its utilization
     - css.md(The CSS) - is just a file that explains all the .css files and it explains what they do.
     - extend.md (extend and customize HTML5 Boilerplate) - This files provides advice on how you can cusotmize projects in boilerplate and how to include things like Appstore, Google Analytics, DNS prefetching etc.
@@ -168,7 +168,7 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, ‚Ä
     - misc.md(Miscellaneous) - this doc talks about other attributes of boilerplate. For example, .gitignore, .editorconfig, server Configuration etc.
     - TOC.md(Table of Context) - this doc is just like a table of contents in a book and it also has links that redirect the user to certain files they are looking for.
     - usage.md(Usage) - this doc is basically talks about how to use your code and explains what each file and documents means in the boilerplate
-##img
+## img
  -  this file is where you place your picture is you want to put them into your code
  -  .gitignore - gitignore is where you place files that you want git to ignore.
 ## js(JavaScript)
