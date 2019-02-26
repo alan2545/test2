@@ -329,7 +329,83 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 - .jscsrc - this tool is similar to eslintrc.js but it was discontinued on April 2016. eslintrc site gives a guide on how to migrate from .jscsrc to eslintrc
 - travis.yml - instead of making big changes to your program and testing them. travis.CI helps developers by automatically testing changes and providing feedback
 - CHANGELOG.md - is just a log of all the updates made to boilerplate
-- gulpfile.babel.js
-- 
->>>>>>>>> Temporary merge branch 2
+- gulpfile.babel.js - 
+- License.txt - this file just explains the copyright agreements and how boilerplate is open source software that anyone can use without any restrictions
+- modernizr-config.json - this is just a configuration file for modernizr
+- package.json - this file includes basic metadata and attributes to your project
+- README.md - this file includes information users should read before starting their project.
+
+#Instructional
+###This is an instructional piece on how to use Git, GitHub, Repository, Clone, Commit, Push, Pull, Branch, Merge, Merge Conflict, Fetch, Remote
+- Git - git is an open source version control system that allows users to track changes during the development of a project
+- GitHub - this is what connects webStorm with with Git. it is a web based hosting service for version control using Git. This is where you put your repositories, communicate with other devs in the community and copy other people repository 
+- Webstorm - this is an IDE for Javascript. "The smartest JavaScript IDE"
+- first off your gonna start off by making Git Hub and WebStorm account
+![alt text](dist/img/webstorm_user.png)
+- here you fill out all your info and after you do that you start your download process
+- while WebStorm is downloading move on to github and create an account
+![alt text](dist/img/github_newuser.png)
+- after you are done creating that check on your WebStorm download. it should be done by now.
+- after your download you are going to have to do some configuration. After all of that you can start on your new project
+![alt text](dist/img/opening_webstorm.png)
+- when you first open up WebStorm this the what is gonna shown to you. Just click on create new project.
+![alt text](dist/img/after_clicking_create.png)
+- this is the prompt you are going to receive after clicking create new project. for the sake of this tutorial we are just going with empty project. click create after.
+![alt text](dist/img/userinterface.png)
+- this is the interface. Get use to it because you are going to see it for a while
+![alt text](dist/img/puttinggit.png)
+- before we do any coding, click on VCS and then click enable version control integration. this will give us Git
+![alt text](dist/img/choosinggit.png)
+- once you click that this menu is gonna appear. Click the drop down menu and click git and then click ok
+- Now lets do a small recap. We have a GitHub account, we have a WebStorm account and WebStorm downloaded and integrated Git into our WebStorm.
+- After all of that we are going back into GitHub to create our first repository.
+- go back to GitHub
+![alt text](dist/img/goingbacktohub.png)
+- once you are in GitHub go into your account. after that click on your profile icon on the top right. 
+- Once you click that a drop down menu is going to appear. 
+- Click on Your repositories
+![alt text](dist/img/repos.png)
+- after that, click on the big green button on the top right corner that says New.
+![alt text](dist/img/insiderepo.png)
+- this is what you are going to see when you want to create a new Repo.
+- It is very straight forward. For this demonstration we are going to leave everything as is but you should include a README file.
+- after you are done configuring click the create repository button.
+![alt text](dist/img/coppylink.png)
+- once you click create repository, you will be moved to this page.
+- copy the link that is next to SSH button. That is our link for our Git
+![alt text](dist/img/goingbacktoweb.png)
+- go back to WebStorm and go under VCS again. once the drop down menu appears hover your mouse over Checkout from Version Control
+![alt text](dist/img/clickgit.png)
+- once you do that click on Git
+![alt text](dist/img/pastinglink.png)
+-after clicking Git, you past the link in the URL option and click clone.
+![alt text](dist/img/mightnot.png)
+- you might or might not get this message. Just click Add
+![alt text](dist/img/newfile.png)
+-Just to test out if the GitHub worked. we are going to create a new file and add some text
+-right click over the folder, hover over new and then click file.
+![alt text](dist/img/nameit.png)
+- you can name it what ever you want.
+![alt text](dist/img/justclickadd.png)
+- Again. if this pops up just click add. 
+- you can click the box next to Remember, don't ask again if you dont want to see the message again.
+![alt text](dist/img/commit.png)
+- once you are done writing your text you always want to commit your work. THIS IS THE MOST IMPORTANT STEP IN THIS PROCESS.
+- without committing all your work is gone.
+- click on VCS and then click on Commit...
+![alt text](dist/img/addames.png)
+- Then you add a message that describes what you did. 
+- Be descriptive when you are working on a real project or working with others so there is no confusion
+![alt text](dist/img/pull.png)
+-click on VCS again
+- hover your mouse over Git
+- click push
+- pushing your work is very important. It is like taking your work and giving it to your partner for them to see your work.
+![alt text](dist/img/afterpush.png)
+- after clicking push this menu is going to appear
+- just click the button on the bottom right that says Push.
+![alt text](dist/img/checkgit.png)
+- go back to git to see if worked.
+- you might have to refresh the page.
+- Boom. There it is. all your handwork is now on GitHub all thanks to Git.
 
