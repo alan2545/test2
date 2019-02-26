@@ -119,9 +119,11 @@ August 3rd, 1984
 - Social media are interactive nternet-based applications. User-generated content is the lifeblood of social media.
 
 ###The Future
--AI
--automation
--expanded storage space 
+- AI
+  - Artificial intelligence becomes more invested in
+- Automation
+  - Jobs that are easy are becoming automated leading to fears as well as hopes
+- Expanded storage space 
   - One terabyte can fit in a microSD card
 
 
