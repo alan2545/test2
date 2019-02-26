@@ -100,6 +100,14 @@ August 3rd, 1984
 ###2000
 - Dot com bubble
   - period of excessive speculation mainly in the United States that occurred roughly from 1995 to 2000, a period of extreme growth in the usage and adoption of the Internet.
+- Algore pushed to make internet public 
+- ICAN internation coroprations assign number and names -  
+    - ip address and domain 
+    - networking backbone
+  Dns domain name server 
+- Wc3 - what runs in the network
+  - this is where http originates from 
+   
 
 ###2010
 - Social media rises with the advent of sites such as myspace, facebook, twitter
