@@ -407,3 +407,41 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
 - you might have to refresh the page.
 - Boom. There it is. all your handwork is now on GitHub all thanks to Git.
 
+##Branch, Merge, Merge Conflict, Fetch, Remote
+
+- Branch
+  - A branch is  a way to make changes to the document witout editing the main document
+  - It is used to test new features and code that may be unstable or caustic
+  - How to use
+    - go to the lower right hand sign of web storm
+    - click on Git: "branch name"
+    - click on +new branch
+    - ![alt text](dist/img/branches.png)
+    - a new branch will be created 
+- Merge
+  - Merging takes a branch and combines it to the main document
+  - you can merge branches and remote branches (branches from others) into the main branch (master)
+  - In order to merge, all you have to do is 
+    - go to the lower right hand corner
+    - click on the branch you want to merge with
+    - click on merge on current
+    - ![alt text](dist/img/merge into current.png)
+  - Sometimes there may be conflicts...
+- Merge Conflict
+  - Merge conflict is when there is text or code that occupies the same space
+  - When there is a conflict, a menu will be represented with conflicts on the left and right
+  - The left is the orignal and the right is the new branch that you are merging with
+  - the middle is the new document that will be created the after merging
+  - It is important to resolve conflicts or else code/text will be lost
+  - it is important to coordinate with your partner(s) to ensure that code is formatted correctly
+- Fetch
+  - Fetch is similar to pull but only downloads new data from a remote repository
+  - doesn't integrate any of this new data into your working files
+  - Fetch is great for seeing all the things that happened in a remote repository
+- Remote Branches
+  - Remote branches are branches edited by other people
+  - you can view them in the lower right hand corner
+  - ![alt text](dist/img/rremote branches.png)
+  - you can downlod them by selecting it in the branches to merge option when pulling 
+  - ![alt text](dist/img/remote branches.png)
+  
