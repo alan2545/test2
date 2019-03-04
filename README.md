@@ -426,6 +426,8 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
     - click on the branch you want to merge with
     - click on merge on current
     - ![alt text](dist/img/merge into current.png)
+    - click on merge 
+    - ![alt text](dist/img/merge button.png)
   - Sometimes there may be conflicts...
 - Merge Conflict
   - Merge conflict is when there is text or code that occupies the same space
@@ -433,6 +435,8 @@ Leonard Kleinrock applied queueing theory to data transmission. in his words, â€
   - The left is the orignal and the right is the new branch that you are merging with
   - the middle is the new document that will be created the after merging
   - It is important to resolve conflicts or else code/text will be lost
+  - click on the arrows to add the text/code to the main or the x to delete the text/code
+  - ![wack](dist/img/merge menu x and.png)
   - it is important to coordinate with your partner(s) to ensure that code is formatted correctly
 - Fetch
   - Fetch is similar to pull but only downloads new data from a remote repository
